@@ -20,7 +20,7 @@ const BuildingUser = () => {
 				<div className='flex items-center justify-between w-full mt-36'>
 					<div>
 						<p className='text-xs text-gray-500'>CONTACT ME FOR HIRE</p>
-						<p className='text-xl underline text-gray-300'>
+						<p className='text-xl underline cursor-default text-gray-300'>
 							koladedavid2@gmail.com
 						</p>
 						<Envelope />
